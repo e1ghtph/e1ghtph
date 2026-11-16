@@ -2,9 +2,7 @@
 
 ### 🚀 About Me
 
-- 🎯 **Current Focus:** Transitioning from WordPress Web Developer to Full-Stack JavaScript Development with the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 📈 **Goal:** Combining years of real-world client experience with scalable modern frameworks to create high-impact web apps.
-- 🤝 **Open to:** Collaborating on open-source projects or exciting web development initiatives
+I'm an aspiring Flutter Developer currently exploring the world of Flutter and Dart. I'm passionate about mobile app development, learning new technologies, and building practical applications. Every project is an opportunity to improve my skills, explore new ideas, and grow as a developer. 🚀
 
 ---
 
